@@ -46,7 +46,7 @@ def chunk_text(input_file, output_file):
     # split into words
     words = data.split(' ')
 
-    # chunk into 100 word chunks with 25 word overlap
+    # chunk into 300 word chunks with 150 word overlap
     obj = {
         "chunks": []
     }
