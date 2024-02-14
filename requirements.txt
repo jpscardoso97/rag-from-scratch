@@ -1,0 +1,4 @@
+streamlit
+sentence_transformers
+huggingface_hub
+openai
